@@ -4,3 +4,6 @@ Simple Python script to search for a string in one or multiple .xlsx files, indi
 Analog to the unix grep command.
 
 It was made purely because there is no grep command in windows and even so, it doesn't work with xlsx files, only converted to .txt back and forth.
+
+Run it as:
+python searchExcel.py '/Excel Folder' stringToLookFor
